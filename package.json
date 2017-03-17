@@ -1,0 +1,14 @@
+{
+  "name": "nthterm",
+  "version": "1.0.0",
+  "description": "Find the nth term of a sequence",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Zac Garby <zacgarby@icloud.com> (zacg)",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
