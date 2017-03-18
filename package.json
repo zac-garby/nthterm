@@ -1,6 +1,6 @@
 {
   "name": "nthterm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Find the nth term of a sequence",
   "main": "index.js",
   "scripts": {
